@@ -44,8 +44,8 @@ let g:NERDTreeDirArrowCollapsible="~"
 " --- Just Some Notes ---
 " :PlugClean :PlugInstall :UpdateRemotePlugins
 "
-" :CocInstall coc-python
-" :CocInstall coc-clangd
+" Installed coc's
+" :CocInstall coc-go
 " :CocInstall coc-snippets
 " :CocCommand snippets.edit... FOR EACH FILE TYPE
 
